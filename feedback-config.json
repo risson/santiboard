@@ -1,0 +1,7 @@
+{
+  "provider": "twikoo",
+  "twikoo": {
+    "envId": "https://santi-comments.netlify.app/.netlify/functions/twikoo",
+    "lang": "zh-CN"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-27T07:33:57+08:00",
+  "latest": "2026-11-26",
+  "minAsOf": "2026-11-19",
+  "lookbackDays": 20,
+  "windowStart": "2026-11-19",
+  "dates": [
+    {
+      "date": "2026-11-19",
+      "runId": "2026-11-19-22-45-运行记录",
+      "skillVersion": "4.0.0",
+      "santi1Version": "5.2.0",
+      "santi2Version": "2.0.0",
+      "santi3Version": "5.3.1",
+      "inputCount": 59,
+      "shortlistCount": 9,
+      "santi2PassCount": 5,
+      "keptCount": 3,
+      "finalDirectionCount": 3,
+      "finalStockCount": 6,
+      "warningCount": 24,
+      "generatedAt": "2026-11-20T16:08:18+08:00"
+    },
+    {
+      "date": "2026-11-22",
+      "runId": "2026-11-22-21-49-运行记录",
+      "skillVersion": "4.0.0",
+      "santi1Version": "5.5.0",
+      "santi2Version": "2.0.0",
+      "santi3Version": "5.3.1",
+      "inputCount": 87,
+      "shortlistCount": 15,
+      "santi2PassCount": 11,
+      "keptCount": 6,
+      "finalDirectionCount": 3,
+      "finalStockCount": 9,
+      "warningCount": 21,
+      "generatedAt": "2026-11-23T00:15:15+08:00"
+    },
+    {
+      "date": "2026-11-23",
+      "runId": "2026-11-23-23-44-运行记录",
+      "skillVersion": "4.0.0",
+      "santi1Version": "5.5.0",
+      "santi2Version": "2.0.0",
+      "santi3Version": "5.3.1",
+      "inputCount": 58,
+      "shortlistCount": 15,
+      "santi2PassCount": 13,
+      "keptCount": 13,
+      "finalDirectionCount": 5,
+      "finalStockCount": 12,
+      "warningCount": 23,
+      "generatedAt": "2026-11-24T08:56:21+08:00"
+    },
+    {
+      "date": "2026-11-24",
+      "runId": "2026-11-24-23-10-运行记录",
+      "skillVersion": "4.0.0",
+      "santi1Version": "5.5.0",
+      "santi2Version": "2.0.0",
+      "santi3Version": "5.3.1",
+      "inputCount": 80,
+      "shortlistCount": 15,
+      "santi2PassCount": 15,
+      "keptCount": 11,
+      "finalDirectionCount": 6,
+      "finalStockCount": 17,
+      "warningCount": 21,
+      "generatedAt": "2026-11-25T01:44:40+08:00"
+    },
+    {
+      "date": "2026-11-25",
+      "runId": "2026-11-25-20-58-运行记录",
+      "skillVersion": "4.1.0",
+      "santi1Version": "5.5.0",
+      "santi2Version": "2.0.0",
+      "santi3Version": "5.3.1",
+      "inputCount": 68,
+      "shortlistCount": 15,
+      "santi2PassCount": 13,
+      "keptCount": 17,
+      "finalDirectionCount": 6,
+      "finalStockCount": 13,
+      "warningCount": 24,
+      "generatedAt": "2026-11-25T23:08:18+08:00"
+    },
+    {
+      "date": "2026-11-26",
+      "runId": "2026-11-26-21-34-运行记录",
+      "skillVersion": "4.1.0",
+      "santi1Version": "5.5.0",
+      "santi2Version": "2.0.0",
+      "santi3Version": "5.3.1",
+      "inputCount": 61,
+      "shortlistCount": 15,
+      "santi2PassCount": 13,
+      "keptCount": 27,
+      "finalDirectionCount": 6,
+      "finalStockCount": 18,
+      "warningCount": 27,
+      "generatedAt": "2026-11-27T00:07:12+08:00"
+    }
+  ],
+  "skipped": [
+    {
+      "runId": "2026-11-16-12-45-运行记录",
+      "asOf": "2026-11-16",
+      "reason": "before-min-as-of（早于 2026-11-19，旧口径）"
+    },
+    {
+      "runId": "2026-11-17-13-16-运行记录",
+      "asOf": "2026-11-17",
+      "reason": "before-min-as-of（早于 2026-11-19，旧口径）"
+    },
+    {
+      "runId": "2026-11-18-20-15-运行记录",
+      "asOf": "2026-11-18",
+      "reason": "before-min-as-of（早于 2026-11-19，旧口径）"
+    }
+  ],
+  "truncated": [],
+  "superseded": []
+}
